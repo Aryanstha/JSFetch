@@ -10,13 +10,13 @@
     Fetch data with ease using JS Fetch - a simple yet powerful tool for making HTTP requests in JavaScript!
     <br/>
     <br/>
-    <a href="https://github.com/aryanstha/JS Fetch">View Demo</a>
+    <a href="https://github.com/aryanstha/JSFetch">View Demo</a>
     .
-    <a href="https://github.com/aryanstha/JS Fetch/issues">Request Feature</a>
+    <a href="https://github.com/aryanstha/JSFetch/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/aryanstha/JS Fetch/total) ![Contributors](https://img.shields.io/github/contributors/aryanstha/JS Fetch?color=dark-green) ![Forks](https://img.shields.io/github/forks/aryanstha/JS Fetch?style=social) ![Stargazers](https://img.shields.io/github/stars/aryanstha/JS Fetch?style=social) ![Issues](https://img.shields.io/github/issues/aryanstha/JS Fetch) ![License](https://img.shields.io/github/license/aryanstha/JS Fetch) 
+![Downloads](https://img.shields.io/github/downloads/ShaanCoding/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![Issues](https://img.shields.io/github/issues/ShaanCoding/ReadME-Generator) ![License](https://img.shields.io/github/license/ShaanCoding/ReadME-Generator) 
 
 ## About The Project
 
@@ -66,22 +66,9 @@ go mod tidy
  jsfetch -d <target-domain> [-o <output-file>]
 ```
 
-
-## Contributing
-
-
-
-### Creating A Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/aryanstha/JS Fetch/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/aryanstha/JSFetch/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
