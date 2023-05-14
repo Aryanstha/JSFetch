@@ -60,7 +60,10 @@ git clone https://github.com/aryanstha/JSFetch
 go mod tidy
 ```
 
-3. Build file```sh go build```
+3. Build file
+```sh
+go build
+```
 4. Run
 ```sh
  jsfetch -d <target-domain> [-o <output-file>]
