@@ -16,7 +16,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/aryanstha/JSFetch/total) ![Contributors](https://img.shields.io/github/contributors/aryanstha/JSFetch/?color=dark-green) ![Issues](https://img.shields.io/github/issues/aryanstha/JSFetch/) ![License](https://img.shields.io/github/license/aryanstha/JSFetch/) 
+![Downloads](https://img.shields.io/github/downloads/aryanstha/JSFetch/total) ![Contributors](https://img.shields.io/github/contributors/aryanstha/JSFetch?color=dark-green) ![Forks](https://img.shields.io/github/forks/aryanstha/JSFetch?style=social) ![Stargazers](https://img.shields.io/github/stars/aryanstha/JSFetch?style=social) ![Issues](https://img.shields.io/github/issues/aryanstha/JSFetch) ![License](https://img.shields.io/github/license/aryanstha/JSFetch) 
 
 ## About The Project
 
