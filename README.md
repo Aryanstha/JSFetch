@@ -54,14 +54,14 @@ go get github.com/PuerkitoBio/goquery
 git clone https://github.com/aryanstha/JSFetch
 ```
 
-2. Install NPM packages
+2. Install packages
 
 ```sh
 go mod tidy
 ```
 
 3. Build file```sh go build```
-4.
+4. Run
 ```sh
  jsfetch -d <target-domain> [-o <output-file>]
 ```
