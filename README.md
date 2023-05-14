@@ -16,7 +16,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/ShaanCoding/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![Issues](https://img.shields.io/github/issues/ShaanCoding/ReadME-Generator) ![License](https://img.shields.io/github/license/ShaanCoding/ReadME-Generator) 
+![Downloads](https://img.shields.io/github/downloads/aryanstha/JSFetch/total) ![Contributors](https://img.shields.io/github/contributors/aryanstha/JSFetch/?color=dark-green) ![Issues](https://img.shields.io/github/issues/aryanstha/JSFetch/) ![License](https://img.shields.io/github/license/aryanstha/JSFetch/) 
 
 ## About The Project
 
